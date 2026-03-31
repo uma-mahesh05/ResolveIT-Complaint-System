@@ -291,6 +291,11 @@ This is an academic project. For any issues or suggestions:
 4. Push to the branch
 5. Create a Pull Request
 
+## 👤 Author
+
+- **UMA MAHESHWAR KONETI**
+- GitHub: https://github.com/uma-mahesh05
+
 ## 📄 License
 
 This project is created for educational purposes.
